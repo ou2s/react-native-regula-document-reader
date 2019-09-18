@@ -1,0 +1,46 @@
+{
+  "_from": "react-native-regula-document-reader",
+  "_id": "react-native-regula-document-reader@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-WHdTlIdRMqQ1oRr66E8eRVA25sFye1Whvox2DWKRVWaUmxp737Z3kZ0VIAineBmq9jy+1Br1oI+uwBS4ZHF4cg==",
+  "_location": "/react-native-regula-document-reader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-regula-document-reader",
+    "name": "react-native-regula-document-reader",
+    "escapedName": "react-native-regula-document-reader",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-regula-document-reader/-/react-native-regula-document-reader-1.0.0.tgz",
+  "_shasum": "94f56a8807392d005c95de06c43203bfd21905fe",
+  "_spec": "react-native-regula-document-reader",
+  "_where": "/Users/itdirectbankbil/Documents/Dev/onboarding-f2f-app",
+  "author": {
+    "name": "mvayngrib"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "react-native wrapper for Regula Document Reader",
+  "keywords": [
+    "regula",
+    "react-native",
+    "document-scanner"
+  ],
+  "license": "MIT",
+  "name": "react-native-regula-document-reader",
+  "peerDependencies": {
+    "react-native": ">=0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
